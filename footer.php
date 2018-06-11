@@ -24,7 +24,7 @@
 	
 		</div>
 		<div class="copyright-text" align="middle">
-		<p>Blog template built for <a href="http://mcc.com.bd">MCC Ltd</a> by <a href="https://thereza.herokuapp.com">@Reza</a>.</p>
+		<p>Simple WP Theme by <a href="https://thereza.herokuapp.com">@Reza</a>.</p>
       </div>
 	</footer>
 	
